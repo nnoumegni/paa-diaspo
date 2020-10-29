@@ -1,0 +1,24 @@
+.DS_Store
+
+# IDE project files
+.classpath
+.project
+.settings
+.vscode
+environment.js
+
+# Build artifacts
+.cache-loader
+.sass-cache
+.tmp
+dist
+node
+node_modules
+yarn-error.log
+target
+stats.json
+
+# Test artifacts
+test/unit/test-coverage
+test/unit/karma-reporter
+test/unit/junit
